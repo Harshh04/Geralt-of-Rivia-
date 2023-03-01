@@ -1,0 +1,149 @@
+body {
+	background-color: black;
+}
+
+.background-top {
+	background-size: contain;
+	width: 100%;
+	height: auto;
+	border: 2px solid;
+	border-color: black;
+	margin-top: 0;
+	border-top: 0;
+}
+
+.mid-quote {
+	text-align: center;
+	font-size: 3em;
+	color: aliceblue;
+}
+
+.skill {
+	text-align: center;
+	color: aliceblue;
+	font-size: 100px;
+	margin-bottom: 0em;
+}
+/*.mid-container {
+	position: relative;
+	text-align: center;
+}
+
+.mid-bg {
+	position: relative;
+	background-size: contain;
+	height: 1920px;
+	height: 1080px;
+	border: 2px solid;
+}
+*/
+table {
+	width: 70%;
+	text-align: center;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*tr:nth-child(even) {
+	background-color: #545454;
+}*/
+
+tr:hover {
+	background-color: coral;
+}
+
+.mid-skills {
+	align-items: center;
+	justify-content: center;
+}
+
+.skill-row {
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	width: 80%;
+}
+
+.night-vision {
+	width: 80%;
+	height: auto;
+}
+
+.immune {
+	width: 50%;
+	height: auto;
+}
+
+.strength {
+	width: 80%;
+	height: auto;
+}
+
+.magic {
+	width: 80%;
+	height: auto;
+}
+
+.Reproduction {
+	width: 80%;
+	height: auto;
+}
+
+.quote-1 {
+	position: absolute;
+	bottom: 80%;
+	right: 30%;
+	font-size: 4.5em;
+	opacity: 0.5;
+}
+
+.quote-2 {
+	position: absolute;
+	top: 70%;
+	left: 40%;
+	font-size: 5em;
+	opacity: 0.3;
+}
+
+.top-container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	font-family: "Cinzel", serif;
+}
+
+h2 {
+	font-family: "Cinzel", serif;
+}
+
+h3 {
+	font-family: "Cinzel", serif;
+}
+
+p {
+	font-family: "Sofia Sans", sans-serif;
+}
+
+.contact-me {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	columns: black;
+}
+
+.bottom-container {
+	text-align: center;
+}
+
+.footer-link {
+	margin: 30px;
+	margin-top: 20px;
+	font-family: "Cinzel", serif;
+}
+
+.btn {
+	font-family: "Cinzel", serif;
+}

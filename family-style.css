@@ -1,0 +1,25 @@
+img {
+	height: 300px;
+	width: auto;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Karma", sans-serif;
+}
+.w3-bar-block .w3-bar-item {
+	padding: 20px;
+}
+
+p {
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
